@@ -10,7 +10,7 @@ def load_reviews(file_path):
     df = pd.read_excel(file_path)
     return df['review_description'].tolist()
 
-file_path = 'nagad.xlsx'
+file_path = 'data/nagad.csv'
 app_reviews = load_reviews(file_path)
 
 # Step 3: Convert all elements in the app_reviews list to strings
@@ -28,13 +28,14 @@ relevance_scores = calculate_relevance_score(privacy_keywords, app_reviews)
 # Step 5: Rank the reviews based on their relevance scores
 review_rankings = sorted(zip(relevance_scores, app_reviews), reverse=True)
 
-# Step 6: Print the top-ranked reviews
-num_top_reviews = 20
-for rank, review in review_rankings[:num_top_reviews]:
-    print(f"Relevance Score: {rank:.4f}\nReview: {review}\n")
+# Step 6: Extract 1,000 privacy-related reviews
+num_desired_reviews = 1000
+privacy_related_reviews = []
+for rank, review in review_rankings:
+    if len(privacy_related_reviews) >= num_desired_reviews:
+        break
+    privacy_related_reviews.append(review)
 
-# Step 7: Manually annotate the top-ranked reviews for creating a labeled dataset.
-#       Positive examples indicate privacy-related reviews, and negative examples represent non-privacy-related reviews.
-#       Use binary labels like 1 for privacy-related and 0 for non-privacy-related.
-
-# Note: The code provided above is just a starting point, and you might need to fine-tune and optimize it based on your specific use case and data. Additionally, you can consider using more advanced techniques or machine learning models for better review ranking and relevance scoring.
+# Step 7: Print the extracted privacy-related reviews
+for review in privacy_related_reviews:
+    print(f"Privacy-Related Review: {review}\n")

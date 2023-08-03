@@ -1,39 +1,88 @@
-import re
 import nltk
-from nltk.corpus import stopwords
+import string
+import pandas as pd
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from nltk.stem import WordNetLemmatizer
+from textblob import TextBlob
+from cltk.tokenize.sentence import TokenizeSentence
 
-nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
-def preprocess_text(text):
-    # Convert text to lowercase
-    text = text.lower()
+def lower_case(text):
+    return text.lower()
 
-    # Remove special characters and digits
-    text = re.sub(r'[^a-zA-Z\s]', '', text)
+def no_digit(text):
+    return ''.join([i for i in text if not i.isdigit()])
 
-    # Tokenize the text
-    words = word_tokenize(text)
+def no_punctuation(text):
+    return text.translate(str.maketrans('', '', string.punctuation))
 
-    # Remove stopwords
+def no_whitespace(text):
+    return text.strip()
+
+def tokenize(text):
+    return word_tokenize(text)
+
+def stop_words(text):
     stop_words = set(stopwords.words('english'))
-    additional_stop_words = {'shall', 'may', 'use', 'us'}
-    stop_words = stop_words.union(additional_stop_words)
-    words = [word for word in words if word not in stop_words]
+    tokens = word_tokenize(text)
+    return [i for i in tokens if not i in stop_words]
 
-    # Join the words back to a single string
-    preprocessed_text = ' '.join(words)
+def stemming(text):
+    stemmer = PorterStemmer()
+    input_str = word_tokenize(text)
+    return [stemmer.stem(word) for word in input_str]
 
-    return preprocessed_text
+def lemmatization(text):
+    lemmatizer = WordNetLemmatizer()
+    input_str = word_tokenize(text)
+    return [lemmatizer.lemmatize(word) for word in input_str]
 
-# Read the privacy policy text
-with open('privacy_policy.txt', 'r', encoding='utf-8') as file:
-    privacy_policy_text = file.read()
+def pos(text):
+    result = TextBlob(text)
+    return result.tags
 
-# Preprocess the text
-preprocessed_text = preprocess_text(privacy_policy_text)
+def chunking(text):
+    result = TextBlob(text)
+    reg_exp = "NP: {<DT>?<JJ>*<NN>}"
+    rp = nltk.RegexpParser(reg_exp)
+    return rp.parse(result.tags)
 
-# Save the preprocessed text to a new file
-with open('preprocessed_privacy_policy.txt', 'w', encoding='utf-8') as file:
-    file.write(preprocessed_text)
+def named_entity(text):
+    entity = ne_chunk(pos_tag(word_tokenize(text)))
+    return entity
+
+def process_text_file(input_file_path, preprocessing_functions):
+    with open(input_file_path, 'r', encoding='utf-8') as file:
+        text = file.read()
+
+    for func in preprocessing_functions:
+        text = func(text)
+
+    return text
+
+def save_preprocessed_text(output_file_path, preprocessed_text):
+    with open(output_file_path, 'w', encoding='utf-8') as file:
+        file.write(preprocessed_text)
+
+# Preprocessing functions for English text
+english_preprocessing_functions = [lower_case, no_digit, no_punctuation, no_whitespace, tokenize, stop_words, stemming, lemmatization]
+
+# Preprocessing functions for Bengali text
+bengali_preprocessing_functions = [no_digit, no_punctuation, no_whitespace, bangla_tokenize]
+
+# Process English text
+english_input_file = 'privacy_policy_nexus_en.txt'
+english_output_file = 'privacy_policy_nexus_en_preprocessed.txt'
+english_preprocessed_text = process_text_file(english_input_file, english_preprocessing_functions)
+save_preprocessed_text(english_output_file, english_preprocessed_text)
+
+# Process Bengali text
+bengali_input_file = 'privacy_policy_nexus.bn.txt'
+bengali_output_file = 'privacy_policy_nexus_bn_preprocessed.txt'
+bengali_preprocessed_text = process_text_file(bengali_input_file, bengali_preprocessing_functions)
+save_preprocessed_text(bengali_output_file, bengali_preprocessed_text)

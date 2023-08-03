@@ -1,7 +1,0 @@
-Data Collection: "data"
-Location Tracking: 
-Information Sharing: "information", "third", "party"
-Security Measures: 
-User Consent: "agreement"
-Account Information: "account"
-Cookies and Tracking Technologies: "cookies"
