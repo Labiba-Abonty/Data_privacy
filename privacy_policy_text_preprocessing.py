@@ -1,88 +1,60 @@
-import nltk
 import string
-import pandas as pd
+import os
+import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.stem import WordNetLemmatizer
-from textblob import TextBlob
-from cltk.tokenize.sentence import TokenizeSentence
 
+# Ensure NLTK resources are downloaded
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-def lower_case(text):
-    return text.lower()
+def preprocess_privacy_policy(text):
+    # Convert to lowercase
+    text = text.lower()
 
-def no_digit(text):
-    return ''.join([i for i in text if not i.isdigit()])
+    # Remove digits
+    text = ''.join([i for i in text if not i.isdigit()])
 
-def no_punctuation(text):
-    return text.translate(str.maketrans('', '', string.punctuation))
+    # Remove punctuation
+    text = text.translate(str.maketrans('', '', string.punctuation))
 
-def no_whitespace(text):
-    return text.strip()
-
-def tokenize(text):
-    return word_tokenize(text)
-
-def stop_words(text):
-    stop_words = set(stopwords.words('english'))
+    # Tokenize
     tokens = word_tokenize(text)
-    return [i for i in tokens if not i in stop_words]
 
-def stemming(text):
-    stemmer = PorterStemmer()
-    input_str = word_tokenize(text)
-    return [stemmer.stem(word) for word in input_str]
+    # Remove stopwords
+    stop_words = set(stopwords.words('english'))
+    tokens = [word for word in tokens if word not in stop_words]
 
-def lemmatization(text):
+    # Apply lemmatization
     lemmatizer = WordNetLemmatizer()
-    input_str = word_tokenize(text)
-    return [lemmatizer.lemmatize(word) for word in input_str]
+    tokens = [lemmatizer.lemmatize(word) for word in tokens]
 
-def pos(text):
-    result = TextBlob(text)
-    return result.tags
+    # Join tokens back to text
+    preprocessed_text = ' '.join(tokens)
 
-def chunking(text):
-    result = TextBlob(text)
-    reg_exp = "NP: {<DT>?<JJ>*<NN>}"
-    rp = nltk.RegexpParser(reg_exp)
-    return rp.parse(result.tags)
+    return preprocessed_text
 
-def named_entity(text):
-    entity = ne_chunk(pos_tag(word_tokenize(text)))
-    return entity
+# Path to your privacy policy text file
+privacy_policy_path = 'privacy_policy_text/pocketguard.txt'
 
-def process_text_file(input_file_path, preprocessing_functions):
-    with open(input_file_path, 'r', encoding='utf-8') as file:
-        text = file.read()
+# Read the privacy policy text
+with open(privacy_policy_path, 'r', encoding='utf-8') as file:
+    privacy_policy_text = file.read()
 
-    for func in preprocessing_functions:
-        text = func(text)
+# Preprocess the privacy policy text
+preprocessed_privacy_policy = preprocess_privacy_policy(privacy_policy_text)
 
-    return text
+# Create a folder for preprocessed text if it doesn't exist
+output_folder = 'preprocessed_text'
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
 
-def save_preprocessed_text(output_file_path, preprocessed_text):
-    with open(output_file_path, 'w', encoding='utf-8') as file:
-        file.write(preprocessed_text)
+# Save the preprocessed privacy policy text
+output_file_path = os.path.join(output_folder, 'preprocessed_privacy_policy.txt')
+with open(output_file_path, 'w', encoding='utf-8') as file:
+    file.write(preprocessed_privacy_policy)
 
-# Preprocessing functions for English text
-english_preprocessing_functions = [lower_case, no_digit, no_punctuation, no_whitespace, tokenize, stop_words, stemming, lemmatization]
-
-# Preprocessing functions for Bengali text
-bengali_preprocessing_functions = [no_digit, no_punctuation, no_whitespace, bangla_tokenize]
-
-# Process English text
-english_input_file = 'privacy_policy_nexus_en.txt'
-english_output_file = 'privacy_policy_nexus_en_preprocessed.txt'
-english_preprocessed_text = process_text_file(english_input_file, english_preprocessing_functions)
-save_preprocessed_text(english_output_file, english_preprocessed_text)
-
-# Process Bengali text
-bengali_input_file = 'privacy_policy_nexus.bn.txt'
-bengali_output_file = 'privacy_policy_nexus_bn_preprocessed.txt'
-bengali_preprocessed_text = process_text_file(bengali_input_file, bengali_preprocessing_functions)
-save_preprocessed_text(bengali_output_file, bengali_preprocessed_text)
+print("Preprocessed privacy policy text saved in:", output_file_path)

@@ -1,0 +1,502 @@
+Overview:
+
+This Agreement applies to any kind of use of our website, mobile application, electronic communications and/or any other services (the “Platform) for any purpose. The Platform may request you to provide your personal information in details, including your National ID/ Passport Number/Driving License, Tax Identification Number (TIN), and/or bank account details, as required for operating the Platform and also for reducing the risk of fraudulent activities, money laundering and terrorist financing. We process your information with utmost importance, care and use this information conforming to the terms of this Agreement. The term “information” in this Agreement refers to any confidential and/or individually identifiable information or other information related to any User of the Platform.
+
+ 
+
+We shall not rent or sell your information to third parties for their marketing purposes without your explicit consent. In case we need to convey your information to any third party for completing your requested service, we shall share the required information under strict restriction and adhering to this Agreement. If you use any third party website via the Platform or use third party website to access the Platform, you shall be responsible for reviewing the privacy policy statements of those websites. Nagad shall not be responsible for the privacy practice of any third party.
+
+ 
+
+ 
+
+ 
+
+1. Changes to Terms and Conditions:
+
+ 
+
+Nagad shall routinely update the terms and conditions of this Agreement to improve our practices and to reflect new or different privacy practices. Such update includes, among other things, adding new Services, functionality or features to the Platform, adding certain fees or charges etc. Updated Agreement shall be effective upon our posting of such updated Agreement at our Platform. You shall be solely responsible for regularly reviewing the terms and conditions of the Platform. All future changes to terms and conditions shall be done as per the existing laws of Bangladesh and rules, regulations and guidelines of Bangladesh Post Office and other regulatory authorities and as per business policy of Nagad and shall be posted on the Platform and shall become applicable from the date of posting such changes on the Platform.
+
+ 
+
+ 
+
+ 
+
+2. Acceptance of Terms and Conditions
+
+Your continued access or use of the Platform after posting the updated terms and conditions of this Agreement constitutes your consent to be bound by this updated terms and conditions of the Agreement. If you do not agree to the terms and conditions, please do not use or access our Platform. Please note that, by use of the Platform, you expressly consent to the use and disclosure of your personal information in accordance with this Agreement.
+
+ 
+
+Your continued use of the Platform denotes that, you understand and agree that we may collect and use your personal data and information, technical data and related information to meet any of our legal or regulatory compliances as per applicable laws of Bangladesh.
+
+ 
+
+ 
+
+ 
+
+3. Information
+
+3.1 Basic Information:
+
+ 
+
+In order to sign up for Nagad account or use Nagad Services, you must provide your name, phone number and other contact details including, Phone Number/NID/Driving License/Passport/Birth Registration number, as applicable, and other required identification information. We may also request you to provide other verification documents before processing any transaction which is not consistent with your regular transaction or is of a very high amount. You agree to cooperate with Nagad in this process by providing all required information and/or documents accordingly.
+
+ 
+
+We collect personal information that you provide to us or over the Platform through correspondence, chats, or any other way, or shared by you from other social websites, services and/or applications; or any additional information (personal or otherwise) that you may be asked to provide as and when necessary.
+
+ 
+
+We collect public information about your business size, customer base and usual transactions that might be available from social media platform, other Nagad account holders or other sources for accessing goodwill, trustworthiness and solvency to check your account and business.
+
+ 
+
+ 
+
+ 
+
+3.2 Device Identification:
+
+ 
+
+Nagad collects information from your interaction with our Platform, Services, content and advertising, including but not limited to, device ID, device type including the hardware model, operating system and version, unique device identifiers and mobile network information, location, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address, information collected by cookies and other tracking technologies, standard web log information and other identifying information about the computer or device that you use to access your Nagad account shall be tracked for helping us detect possible instances of unauthorized transactions and shall be used by Nagad to provide smooth experience of Nagad services.
+
+ 
+
+ 
+
+ 
+
+3.3 Transaction Information:
+
+ 
+
+For complying with anti-money laundering and counter terrorism obligations under the applicable Laws and its subsequent amendments, including but not limited to, the Money Laundering Prevention Act 2012 and Anti-Terrorism Act 2009), and any other applicable rules and regulations of the Government of the People’s Republic of Bangladesh, your commercial and/or personal transaction information shall be recorded. If you send or receive an unusual high amount through the Nagad Services, or are suspected of being engaged in any suspicious transaction, Nagad in collaboration with Bangladesh Post Office and other relevant authorities of the Government may conduct a background check on your business by gathering information about you and your business, its directors, shareholders, partners, officials and employees, as applicable. Nagad, at its sole discretion, reserves the right to periodically retrieve and review a business and/or consumer information and is authorized to close an account based on information obtained during these background check and reviews.
+
+ 
+
+ 
+
+ 
+
+3.4 Web Catches and Website Traffic:
+
+ 
+
+For ensuring smooth and efficient Nagad Services, your IP address, browser, and time related information for accessing the Platform shall be stored in our server; web address of sites that routed you to or from the Platform may also be received. Session cookies, web cookies, pixel tags, web beacons or other similar technologies shall be used to place small text or image files in your computer/device for facilitating User friendly performance of the Platform.
+
+ 
+
+ 
+
+ 
+
+3.5 Contacting Prospective Users:
+
+ 
+
+When a Nagad User attempts to send Nagad Service request to Users who have not yet signed up in Nagad, Nagad may retain the Service requested and information provided regarding the prospective User for contacting them for marketing purpose. For example, a text message or Interactive Voice Response (“IVR”) may be sent to their number notifying them about the Nagad Service you wanted to share with them.
+
+ 
+
+ 
+
+ 
+
+3.6 Non-Personal Information:
+
+ 
+
+Nagad may collect non-personal information as you use our Platform. When you use our Platform, third-party service providers, e.g. Google Analytics and other partners may also receive and record non-personal information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. We may combine the collected non-personal information with the personal information. Where we do so, we shall treat the combined information as personal information if the resulting combination may be used to readily identify or locate you in the same manner as personal information alone.
+
+ 
+
+ 
+
+ 
+
+3.7 Aggregate Information:
+
+ 
+
+Nagad collects non-identifying, general, generic and aggregate information to improve the design of the Platform and Services.
+
+ 
+
+ 
+
+ 
+
+3.8 Accessing and Updating Your Information:
+
+ 
+
+You may update your information through your account profile settings. If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it accordingly.
+
+ 
+
+You may request access to any personal information we hold about you at any time by contacting us. Where we hold information that you are entitled to access, we shall try to provide you with the means of accessing it. You may be charged a fee to cover the administrative and other associated costs in providing the information as per the policy of Nagad. Please note that there may be instances where access to the personal information may not be granted, for e.g. we may need to refuse access if it would potentially interfere with the privacy of others or result in a breach of confidentiality.
+
+3.9 Restriction to Transfer
+
+The right to use this Platform is personal to the User and is not transferable to any other person or entity.  You shall be responsible for protecting the confidentiality of your password(s), if any. It is agreed by you that, although the internet is often a secure environment, sometimes there are interruptions in service or events that are beyond the control of Nagad, and Nagad shall not be responsible for any data lost while transmitting information on the internet. Nagad makes no representation that any Services are available or otherwise suitable for use outside Bangladesh. If you choose to access the Platform from locations outside Bangladesh, you do so on your own initiative and are responsible for the consequences thereof.
+
+ 
+
+3.10 User Contact List Information
+ 
+Nagad may use the information you provide including the contact list of the user’s device for various purposes. However, the information contained in the contact list is not being stored in Nagad’s database and only used for the purpose of performing any instruction given by the user.
+
+ 
+
+4 Use of Collected Information
+
+4.1 Internal Use:
+
+ 
+
+Your information shall be collected, stored and processed in servers located in Bangladesh, which shall be used to provide you with a smooth, safe, efficient and customized experience of the Platform. The provided information shall be used to process your transactions, troubleshoot problems, resolve disputes, provide customer support service, customize your Platform  experience and any other issues.
+
+ 
+
+ 
+
+ 
+
+4.2 Communicating with You:
+
+ 
+
+We shall also communicate with you by using the information that you provided to complete processing of Nagad Services or verify any important information or actions like investigating suspicious or illegal transaction, responding to customer service requests, complaints or claims.
+
+ 
+
+4.3 Information Shared with Other Nagad Users
+
+ 
+
+Your basic information like name, phone number, email address, transaction amount and transaction time, etc. may be shared with other Nagad Users or prospective User to whom you send Nagad service request. The information that shall be shared may vary with the service you request and the type of Nagad account you maintain; additional information about your business may be revealed if you are making transactions through a business account. When payments for goods or purchases are made through Nagad, buyer’s and seller’s address and payment details may be revealed for aiding in delivery and dispute resolution.
+
+ 
+
+4.4 Information Shared with Other Third Parties:
+
+ 
+
+Several third parties like the regulatory authority, mobile operator and other service providers may need access to specific information for completion of your requested Nagad Services. We shall only disclose the required information to third parties if we are under a duty to comply with legal requirements, enforce our policies, and respond to claims that a listing or other content violates the rights of Nagad or others, or protect anyone’s rights, property, or safety. Such information shall be disclosed in accordance with applicable laws and regulations of the country. As stated above, we do not disclose your personal information to third parties for their marketing purposes without your explicit consent.
+
+ 
+
+4.5 Your Use of Nagad Information:
+
+ 
+
+You shall receive information of other Nagad Users when carrying out any transaction with them. You may only use this information for facilitating Nagad Service related communication, action or transaction; this information shall not be used for any other purpose without taking explicit consent of the Nagad User by disclosing the purpose adequately.
+
+ 
+
+We may send you email/SMS to verify your account and other transactional emails for operational purposes, such as billing, account management, or system maintenance. You may only stop receiving those emails/SMSs by terminating your account. We may also send you promotions, announcements, surveys, newsletters, developer updates, evaluations, and event information or other marketing or commercial e-mails/SMS. You may opt out of receiving these email/SMS communications from us at any time by unsubscribing, using the unsubscribe button within each email to have your contact information removed from our email list. Notwithstanding anything contained anywhere in this Agreement or the Terms & Condition, Nagad shall not be responsible for any breach of privacy due to correspondence to an incorrect address or phone number.
+
+ 
+
+You agree that we may use your personal information to inform you about our Services and tools, deliver targeted marketing and promotional offers based on your communication preferences, and customize measure and improve our advertising.
+
+ 
+
+We may also use and share non-personally identifiable information for our marketing purposes, including, without limitation to marketing on other websites, for e.g. use the information to control the number of times you have seen an ad, deliver ads tailored to your interests, and measure the effectiveness of ad campaigns.
+
+ 
+
+4.6 Surveys and Questionnaires:
+
+ 
+
+When you answer the optional questionnaire or survey, information provided in them may be used for improving Nagad Services, marketing and/or advertising purpose as described in the survey.
+
+ 
+
+4.7 Audit and Legal Compliance:
+
+ 
+
+Your information and transaction history may be viewed by the auditors for confirming the accuracy of our record. However, auditors shall not have the right of using your personally identifiable information for any other purpose. Information related to illegal or suspicious activity carried out from your account shall be made available to law enforcing body, Bangladesh Post Office, Bangladesh Bank, competent courts of law or any other law enforcing agencies with applicable jurisdiction when requested.
+
+ 
+
+4.8 Mergers or Acquisition:
+
+ 
+
+If Nagad merges with other company or is acquired by another company, the successor company will have access to your information maintained by Nagad.
+
+ 
+
+4.9 Public Information:
+
+ 
+
+Any reviews, personal information or comments that you voluntarily post or disclose on public pages (for instance, the questions and answers page, Facebook page etc.) of Nagad will be viewable by the general public. Any comment or other content you post or disclose on such public pages becomes published content including your account and User name and shall not be subjected to the terms and conditions of this Agreement. You shall be deemed to have waived the right to privacy and confidentiality over such information by posting or making such disclosure. Nagad does not have Non-Disclosure and Confidentiality Agreements with these parties who may be able to access such information.
+
+ 
+
+ 
+
+ 
+
+5. Cookies:
+
+5.1 Consent:
+
+ 
+
+By using our Platform or Services provided through the Platform, or receiving our emails, you consent to the use of cookies in accordance with this Agreement.
+
+ 
+
+5.2 Intent:
+
+ 
+
+This Agreement sets out how we, and third parties we authorize, use cookies when you interact through our Platform or the Services offered via the Platform. Our Agreement explains what we do (and don’t do) with the information, including any personal data we may collect about you.
+
+ 
+
+5.3 Meaning:
+
+ 
+
+Cookies are unique identifiers, usually made up of small bits of text or code. Cookies are usually stored on your device or in your web browser and they send certain information back to the party who served the cookie. When we refer to cookies, we are actually referring to a broader range of technologies than just cookies, including web beacons, clear gifs, pixels and other similar technologies. When we refer to first-party cookies, we mean cookies that are served by Nagad. When we refer to third party cookies we mean cookies that are served by non-Nagad parties.
+
+ 
+
+5.4 Use of Cookies:
+
+ 
+
+Cookies may be used in order to better understand how Platform work and to optimize online and mobile experiences. Cookies do this by allowing the party serving the cookie to analyze a Platform’s performance, to identify certain Users anonymously and remember their preferences, to better understand whether a computer or device (and probably its User) has visited a website previously and to serve personalized advertisements.
+
+ 
+
+5.5 Types of Cookies:
+
+ 
+
+Our Platform primarily uses the following four types of cookies:
+
+ 
+
+5.5.1 Operations based Cookies:
+
+ 
+
+These cookies are essential for the operation of our Platform. They make it possible for you to browse and use our Platform. If you disable these cookies, the Platform will not function correctly.
+
+ 
+
+5.5.2 Performance based Cookies:
+
+ 
+
+These cookies gather information about how visitors use the Platform and monitor Platform performance. For example, performance cookies tell us which pages are popular, monitor traffic to our Platform and compile anonymous analytic information. Performance cookies can also be used to identify and remedy operational problems with the Platform.
+
+ 
+
+5.5.3 Functionality based Cookies:
+
+ 
+
+These cookies are used to recognize and remember your preferences. For example, functionality cookies may use information, such as your location, to make sure that you arrive at a version of our Platform that is specific to your city or region.
+
+ 
+
+5.5.4 Advertising Preferences based Cookies:
+
+We offer you choices about receiving interest-based ads from us. For this, we allow third parties to deliver personalized advertising content on our Platform and/or on third party websites and applications. These third parties use cookies to understand your interest in the advertisements and content delivered to you, as well as to serve you with more relevant advertisements based on your activities on our Platform. For example, third-party cookies could record information about whether you have clicked on certain content or advertisements on our Platform or other websites, or placed an item on our Platform in your shopping cart.
+
+ 
+
+5.6 Control over Third Party Cookies:
+
+ 
+
+We do not have control over, or access to, third-party advertising cookies or the information they contain. Third parties manage any information that they collect via cookies they place in accordance with their privacy policies. You can opt-out of third-party personalized advertising cookies. You will still see ads but they will not be personalized.
+
+ 
+
+ 
+
+ 
+
+5.7 Cookies and Browser settings:
+
+ 
+
+You may be able to avoid certain cookies by configuring your browser settings or opting-out directly with the party that operates and controls the cookie. Please check your browser settings for more information.
+
+ 
+
+ 
+
+ 
+
+5.8 Cookies in E-mails:
+
+ 
+
+Our emails contain cookies that track whether you open our emails and whether you click any link within them. The cookies used in our emails to monitor these behaviours are unique to each email and are not stored on your computer or mobile device.
+
+ 
+
+6. User’s Responsibility
+
+The Services and use of the Platform do not include the provision of necessary equipment to access the Platform. To use the Platform, you will require internet connectivity and appropriate telecommunication links. The User shall be responsible for obtaining and maintaining all telephone, computer hardware, software and other equipment needed for access to and use the Platform and all charges related thereto.  Nagad shall not be liable for any damages to the User’s equipment resulting from the use of this Platform.
+
+ 
+
+User Conduct
+
+The User undertakes without limitation, not to use or permit anyone else to use the Services or Platform:
+
+To upload, send or receive any information for which the User has not obtained all necessary license and/or approvals (from us or third parties); or which constitutes or encourages conduct that would be considered a criminal offence, give rise to civil liability or otherwise be contrary to the law of or infringe the rights of any third party in any country in the world;
+to upload, send or receive any material which is technically harmful (including computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data, malicious software, harmful data, or anything else which may interrupt, interfere with, corrupt or otherwise cause loss, damage, destruction or limitation to the functionality of any software or computer equipment);
+to intercept or attempt to intercept any communications transmitted by way of a telecommunication system;
+for a purpose other than which we have designed them or intended them to be used;
+for any fraudulent purposes in any way which is calculated to incite hatred against any ethnic, religious or any other minority or is otherwise calculated to adversely affect any individual, group or entity;
+to upload, send or receive any material, which is not civil or tasteful;
+to upload, send or receive any material, including User content, which is unlawful, harmful, tortious, threatening, abusive, harassing, hateful, racist, homophobic, infringing, pornographic, violent, misleading, grossly offensive, of an indecent, obscene or menacing character, blasphemous or defamatory or of a libellous nature of any person or entity, in contempt of court or in breach of confidence, or which infringes the rights of another person or entity, including copyrights, trademarks, trade secrets, patents, rights of personality, publicity or privacy or any other third party rights;
+to cause annoyance, inconvenience or needless anxiety.
+ 
+
+ 
+
+Forbidden uses: The following uses of the Platform are expressly prohibited and you undertake not to do (or to permit anyone else to do) any of the following:
+
+ 
+
+resell the Platform;
+furnish false data including false names, addresses and contact details and fraudulent use of credit/debit card numbers;
+attempt to circumvent our security or network including accessing data not intended for you, logging into a server or account you are not expressly authorized to access, or probe the security of other networks (such as running a port scan);
+access the Platform in such a way as to, or commit any act that would or does, impose an unreasonable or disproportionately large burden on our infrastructure or that otherwise interrupts or interferes with its functionality, efficiency or operation;
+execute any form of network monitoring which will intercept data not intended for you;
+send unsolicited mail messages, including the sending of “junk mail” or other advertising material to individuals who did not specifically request such material. You are explicitly prohibited from sending unsolicited bulk mail messages. This includes bulk mailing of commercial advertising, promotional, or informational announcements, and political or religious tracts. Such material may only be sent to those who have explicitly requested it. If a recipient asks to stop receiving email of this nature, you may not send that person any further email;
+create or forward “chain letters” or other “pyramid schemes” of any type, whether or not the recipient wishes to receive such mailings;
+send malicious email, including flooding a user or site with very large or numerous emails;
+enter into fraudulent interactions or transactions with us or a Seller (which shall include entering into interactions or transactions purportedly on behalf of a third party where you have no authority to bind that third party or you are pretending to be a third party);
+use the Platform (or any relevant functionality of either of them) in breach of this Agreement;
+use in an unauthorized manner, or forge, mail header information;
+engage in any unlawful or criminal activity in connection with the use of the Platform or any Voucher; or
+copy or use any User content for any commercial purposes.
+Any conduct by a User that in Nagad’s exclusive discretion is in breach of the Agreement or which restricts or inhibits any other User from using or enjoying this Platform is strictly prohibited. The User shall not use this Platform to advertise or perform any commercial, religious, political or non-commercial solicitation, including, but not limited to, the solicitation of Users of this Platform to become users of other online or offline services directly or indirectly competitive or potentially competitive with Agreement.
+
+Nagad reserves the right to prevent you from using the Platform and to prevent you from making any purchase, if your conduct is found to be in question or contravention of the terms of this Agreement.
+
+ 
+
+ 
+
+7. Your Information is Secured:
+
+Nagad maintains your information with the highest level of integrity. Our firewalls, data encryption and computer and network safeguard your information around the clock. Only authorized employees may access our office, network and files for completing the actions needed for smooth functioning of the system. We shall, however, not be responsible for any breach of security or for any actions of any third party that receive your personal information.
+
+ 
+
+You may always review and change your personal information from the account setting page of your Nagad account. You may also close your account at any time if there is no investigation being conducted against it. After you close your account, we shall mark your account status as ‘Closed’ and keep your information in our database for future reference.
+
+ 
+
+8. Intellectual Property Rights.
+
+Nagad grants you a limited, personal, non-transferable, nonexclusive, revocable license to access and use the Platform pursuant to this Agreement and to any additional terms and policies set forth by Nagad. All intellectual property rights (including all copyright, patents, trademarks, service marks, trade names, designs (including the “look and feel” and other visual or non-literal elements)) whether registered or unregistered, (hereinafter called the “Intellectual Property Rights”) in the Platform, (subject to the title & ownership rights as mentioned below) information content on the Platform, any database operated by us and all the website design, text and graphics, software, photos, video, music, sound, and their selection and arrangement, and all software compilations, underlying source code and software (including applets and scripts) shall remain our property (or that of our licensors). You shall not, and shall not attempt to, obtain any title to any such intellectual property. All rights are reserved.
+
+None of the material listed in the clause above may be reproduced or redistributed or copied, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means, sold, rented or sub-licensed, used to create derivative works, or in any way exploited without our prior express written permission. You may, however, retrieve and display the content of the website on a computer screen, store such content in electronic form on disk (but not on any server or other storage device connected to a network) or print / save one copy of such content for your own personal, non-commercial use, provided you keep intact all and any copyright and proprietary notices. You may not otherwise reproduce, modify, copy or distribute or use for commercial purposes any of the materials or content on the Platform without our permission.
+
+“Nagad”, the Nagad logos and variations thereof found on the Platform are trademarks owned by Nagad and all use of these marks inures to the benefit of Nagad. All rights (including goodwill and, where relevant, trade marks) in Nagad’s name are owned by us (or our licensors). Other product and company names mentioned on the Platform are the trademarks or registered trademarks of their respective owners.
+
+Title, ownership rights and Intellectual Property Rights in and to the content accessed using the Platform is the property of the applicable content owner and may be protected by applicable copyright or other laws of Bangladesh. The Agreement gives you no rights to such content.
+
+Subject to the clause below, any material you transmit or post or submit to the Platform (or otherwise to us) shall be considered (and we may treat it as) non-confidential and non-proprietary, subject to our obligations under data protection legislation or such legislation which provides for protection of electronic data under Bangladeshi laws. If for some reason, any part of that statement does not work as a matter of law, then for anything which you supply to us from whatever source (i.e. via email, the website or otherwise) you grant us a royalty-free, perpetual, irrevocable, non-exclusive right to use, copy, modify, adapt, translate, publish and distribute world-wide any such material.
+
+All comments, suggestions, ideas, notes, drawings, concepts or other information: (i) disclosed or offered to us by you; or (ii) in response to solicitations by us regarding the Platform; (in each foregoing case, these are called “Ideas“) shall be deemed to be and shall remain our property and you hereby assign by way of present and future assignment all Intellectual Property Rights in Ideas, to us. You understand and acknowledge that we have both internal resources and other external resources which may have developed or may in the future develop ideas identical to or similar to Ideas and that we are only willing to consider Ideas on these terms. In any event, any Ideas are not submitted in confidence and we assume no obligation, express or implied by considering it. Without limitation, we shall exclusively own all now known or hereafter existing rights to the Ideas of every kind and nature throughout the world and shall be entitled to unrestricted use of the Ideas for any purpose whatsoever, commercial or otherwise without compensation to the provider of the Ideas.
+
+9. Disclaimer of Warranty
+
+While it is Nagad’s objective to make the Platform accessible at all times, the Platform may be unavailable from time to time for any reason including, without limitation, routine maintenance. You understand and acknowledge that due to circumstances both within and outside of the control of Nagad, access to the platform may be interrupted, suspended or terminated from time to time. Nagad reserves the right, in its sole discretion, to terminate the access to any or any Nagad website(s) and the related services or any portion thereof at any time, without notice. Nagad shall also have the right at any time to change or discontinue any aspect or feature of the website or mobile application, including, but not limited to, content, graphics, offers, settings, hours of availability and equipment needed for access or use. Further, Nagad may discontinue disseminating any portion of information or category of information, may change or eliminate any transmission method and may change transmission speeds or other signal characteristics.
+
+The User expressly agrees that use of the Platform is at the user’s sole risk. Neither Nagad, any holding or subsidiaries, business associates nor any of their respective employees, agents and third party content providers warrant that use of the Platform shall be uninterrupted or error free; nor do they make any warranty as to (i) the results that may be obtained from use of the Platform, or (ii) the accuracy, reliability or content of any information, service or merchandise provided through the Platform.
+
+The Platform is made accessible on an “as is” basis without warranties of any kind, either express or implied, including, but not limited to, warranties of title or implied warranties of merchantability or fitness for a particular purpose, other than those warranties which are implied by and incapable of exclusion, restriction or modification under the laws applicable to this Agreement.
+
+We do not give any warranty that the Platform is free from viruses or anything else which may have a harmful effect on any technology.
+
+We reserve the right to change, modify substitute, suspend or remove without notice any information or voucher or service from the Platform forming part of the service from time to time.  Your access to the Platform may also be occasionally restricted to allow for repairs, maintenance or the introduction of new facilities or services.  We shall attempt to restore such access as soon as we reasonably can.  We assume no responsibility for functionality which is dependent on your browser or other third party software to operate.  For the avoidance of doubt, we may also withdraw any information or voucher from the Platform at any time.
+
+We reserve the right to block access to and / or to edit or remove any material which in our reasonable opinion may give rise to a breach of this agreement.
+
+This disclaimer of warranty applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft or destruction or unauthorized access to, alteration of, or use of record, whether for breach of contract, tortuous behaviour, negligence, or under any other cause of action. The user specifically acknowledges that Nagad is not liable for the defamatory, offensive or illegal conduct of other users or third-parties and that the risk of injury from the foregoing rests entirely with the User.
+
+In no event shall Nagad, or any business associates, third party content providers, third party advertisers or third party service providers, producing or distributing the Platform and any software, be liable for any damages, including, without limitation, direct, indirect, incidental, special, consequential or punitive damages arising out of the use of or inability to use the website or mobile application. The User hereby acknowledges that the provisions of this clause shall apply to all content on the website and mobile application.
+
+In addition to the terms set forth above, neither Nagad, nor any subsidiaries and business associates, third party service providers or third party content providers shall be liable regardless of the cause or duration, for any errors, inaccuracies, omissions, or other defects in, or untimeliness or inauthenticity of, the information contained within the Platform, or for any delay or interruption in the transmission thereof to the User, or for any claims or losses arising therefrom or occasioned thereby. None of the foregoing parties shall be liable for any third-party claims or losses of any nature, including without limitation lost profits, punitive or consequential damages.
+
+We shall not be liable for indirect, special, or consequential damages (or any loss of revenue, profits, or data) arising in connection with this Agreement, even if we have been advised of the possibility of such damages. further, our aggregate liability arising with respect to this agreement will not exceed the total offer price paid or payable to you under this agreement.
+
+10. Indemnity:
+
+The User agrees to defend, indemnify and hold harmless Nagad, its parent, subsidiaries, affiliates, third-parties and their respective officers, directors, agents, and employees from and against all claims and expenses, including attorneys’ fees, arising out of claims based upon the use of User’s actions or inactions, including but not limited to, any warranties, representations or undertakings or in relation to the non-fulfilment of any of its obligations under this Agreement or arising out of the User’s infringement of any applicable laws, regulations including but not limited to Intellectual Property Rights, confidentiality obligations, payment of statutory dues and taxes, claim of libel, defamation, violation of rights of privacy or publicity, loss of service by other users and infringement of intellectual property or other rights. This clause shall survive the expiry or termination of this Agreement.
+
+ 
+
+11. Force Majeure:
+
+Without prejudice to any other provision herein, Nagad shall not be liable for any loss, damage or penalty as a result of any loss of information due to any cause beyond Nagad’s control, including, without limitation, acts of the User, governmental act, any unlawful access to Nagad’s information i.e. hacking or acts of God.
+
+ 
+
+12. Severability:
+
+If any provision of this Agreement is held invalid by a court of competent jurisdiction, such invalidity shall not affect the enforceability of any other provisions contained in this Agreement and the remaining portions of this Agreement shall continue in full force and effect. The failure of either party to exercise any of its rights under this Agreement shall not be deemed a waiver or forfeiture of such rights.
+
+ 
+
+13. Entire Agreement
+
+This Agreement constitutes the entire agreement of the parties with respect to the subject matter hereof. No representation, undertaking or promise shall be taken to have been given or be implied from anything said or written in negotiations between the parties prior to this Agreement except as expressly stated in this Agreement. Neither party shall have any remedy in respect of any untrue statement made by the other upon which that party relied on when entering into this Agreement (unless such untrue statement was made fraudulently or was as to a matter fundamental to a party’s ability to perform this Agreement) and that party’s only remedy shall be for breach of contract as provided in this Agreement. However, the service is provided to you under our operating rules, policies, and procedures as published from time to time on the Website.
+
+ 
+
+14. Waiver
+
+No waiver by either party of any breach or default hereunder is a waiver of any preceding or subsequent breach or default.
+
+ 
+
+15. Heading
+
+The headings and sub-headings herein are included for convenience and identification only and are not intended to describe, interpret, define or limit the scope, extent or intent of this Agreement.
+
+ 
+
+16. Governing Law
+
+This Agreement shall be governed by and constructed in accordance with the laws of Bangladesh without reference to conflict of laws principles and disputes arising in relation hereto shall be subject to the exclusive jurisdiction of the courts of Dhaka, Bangladesh.
+
+ 
+
+17. Relationship
+
+None of the terms and conditions of this Agreement, notices or the right to use the Platform by the User contained herein or any other section or pages of the Platform and/or the linked sites, shall be deemed to constitute a partnership between the User and Nagad and no party shall have any authority to bind or shall be deemed to be the agent of the other in any way. It may be noted, however, that if by using the Platform, the User authorizes Nagad and its agents to access third party sites designated by them or on their behalf for retrieving requested information, the User shall be deemed to have appointed Nagad and its agents as his/her agent for this purpose.
+
+ 
+
+18. Refund Policy of Nagad Ltd.
+
+This refund policy does stipulate - a procedure that dictates the terms of any refunds which may be offered by the website of eCommerce store. Before a customer makes a purchase, he/she may decide to review the refund policy of a given website or store to make sure that they are comfortable with the terms.
+
+Procedurally, a customer requires to place a refund request in the merchant website for a refund. Once the refund is validated by the merchant, the merchant approves the refund request and the amount is credited back to the customer account. As per the agreement with the merchant, the refund amount of a single day shall not be more than the collection amount. In case of any dispute, the refund shall be credited to the customer’s account within 10 (Ten) working days as per the agreement with the respective merchant. Nagad also holds the right to suspend any merchant if there is any violation of the agreement.
+
+Pricing on any Products or product information published on the Merchant’s website may be incorrect due to some technical issues or typographical errors. In such an event, the Merchant reserves the right to cancel any such orders as requested and refund the amount (if any) received from the Customers. Nagad Ltd. shall not be responsible for any such error/s or incorrect information provided by Merchant as providing the price of the Product is the sole responsibility of the Merchant.
